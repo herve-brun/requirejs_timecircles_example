@@ -2,6 +2,8 @@
 
 An awesome requirejs app
 
+[![DepShield Badge](https://depshield.sonatype.org/badges/herve-brun/requirejs_timecircles_example/depshield.svg)](https://depshield.github.io)
+
 ## Getting Started
 
 Make sure you have the latest packages installed
